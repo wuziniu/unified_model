@@ -48,6 +48,9 @@ Setting `--train_db` , `--test_db` and `--db_path` is neccessary, It represents 
 python run_meta_learning.py --train_db 0 1 2 3 --test_db 4 --db_path="/data/meta_learner"
 ```
 
+### Contact
+If you have any questions about the code, please email yupei.yu@alibaba-inc.com, yangpeilun.ypl@alibaba-inc.com
+
 ### Reference
 
 If you find this repository useful in your work, please cite [our paper](https://arxiv.org/pdf/2105.02418.pdf).
@@ -56,8 +59,8 @@ If you find this repository useful in your work, please cite [our paper](https:/
 @article{wu2021unified,
   title={A Unified Transferable Model for ML-Enhanced DBMS},
   author={Wu, Ziniu and Yang, Peilun and Yu, Pei and Zhu, Rong and Han, Yuxing and Li, Yaliang and Lian, Defu and Zeng, Kai and Zhou, Jingren},
-  journal={arXiv preprint arXiv:2105.02418},
-  year={2021}
+  journal={Conference on Innovative Data Systems Research},
+  year={2022}
 }
 ```
 
